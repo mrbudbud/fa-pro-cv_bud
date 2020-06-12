@@ -9,5 +9,10 @@
             "email": "rachmad.16421044@student.ubl.ac.id"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Cvbud\\": "src/"
+        }
+    },
     "require": {}
 }
