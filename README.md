@@ -9,12 +9,12 @@
 - 26/04/2019 Fontawesome Pro [5.5.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.5.0)
 - 03/08/2018 Fontawesome Pro [5.0.13](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.0.13)
 
-# Download
-- Click in <code>releases</code> to download the font
+# Download via composer
+- <font color="Black"> $ </font> <font color="#f03c15">composer require cv-bud/fa-pro</font>
 
 # Credits
 - By Nguyen Dang Hau
 
 # Usage
 - Follow in official website: [https://fontawesome.com/](https://fontawesome.com/)
-- Follow in official githup: [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+- Follow in cv-bud github: [https://github.com/mrbudbud/fa-pro-cv_bud](https://github.com/mrbudbud/fa-pro-cv_bud)
