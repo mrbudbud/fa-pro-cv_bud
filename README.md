@@ -19,9 +19,9 @@ $ git clone https://github.com/mrbudbud/fontawesome-pro.git
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
- <img src="folder.svg" alt="Font Awesome 5 Free" width="30" height="150" >
+ <img src="https://i.imgur.com/Ufvi1nB.png"  width="290" height="290">
  
-```text
+<!-- ```text
 └── dist/
     ├── css/
     │   ├── all.css
@@ -61,7 +61,7 @@ Within the download you'll find the following directories and files, logically g
         ├── solid.min.js
         └── v4-shims.js
         └── v4-shims.min.js
-```
+``` -->
 
 
 
