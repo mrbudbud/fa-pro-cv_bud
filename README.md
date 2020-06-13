@@ -1,5 +1,6 @@
 <h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-pro.svg" alt="Font Awesome 5 Free" width="500"></h1>
 
+
 ## Installation
 
 Via Composer
@@ -18,6 +19,8 @@ $ git clone https://github.com/mrbudbud/fontawesome-pro.git
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
+ <img src="folder.svg" alt="Font Awesome 5 Free" width="30" height="150" >
+ 
 ```text
 └── dist/
     ├── css/
@@ -59,6 +62,8 @@ Within the download you'll find the following directories and files, logically g
         └── v4-shims.js
         └── v4-shims.min.js
 ```
+
+
 
 # Fontawesome Pro All version
 - 2/4/2020 Fontawesome Pro [5.13.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.13.0)
